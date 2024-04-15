@@ -1,3 +1,5 @@
+this is for testing
+
 |||NOW UPDATED TO 1.8!!!!!
 
 online version is https://svaaps.github.io/eaglercrafthtml/
@@ -11,8 +13,3 @@ you can also clone this to make your own copy of the web version of eaglercraft!
 
 
 original repo link without html - https://github.com/lax1dude/eaglercraft
-
-|||NOW UPDATED TO 1.8!!!!!
-
-
-ps: thanks to all of you for forking my repo, it makes me happy and proud. ive never had these many people look at my repos :)
